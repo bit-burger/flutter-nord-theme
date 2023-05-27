@@ -25,7 +25,6 @@ abstract class NordTheme {
         colorScheme: roles.colorScheme,
         brightness: roles.brightness,
         primaryColor: roles.primary,
-        accentColor: roles.accent,
         canvasColor: roles.canvas,
         shadowColor: roles.shadow,
         scaffoldBackgroundColor: roles.scaffoldBackground,
@@ -41,7 +40,6 @@ abstract class NordTheme {
         selectedRowColor: roles.selectedRow,
         unselectedWidgetColor: roles.unselectedWidget,
         disabledColor: roles.disabled,
-        buttonColor: roles.button,
         textSelectionTheme: roles.textSelection,
         textButtonTheme: TextButtonThemeData(style: roles.textButton),
         elevatedButtonTheme:
